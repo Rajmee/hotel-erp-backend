@@ -1,0 +1,8 @@
+vendor/
+**/.DS_Store
+composer.lock
+
+managebeds.sql
+composer.lock
+.vscode
+composer.lock
